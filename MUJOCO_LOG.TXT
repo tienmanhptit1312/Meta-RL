@@ -1,0 +1,12 @@
+Sat Feb 22 13:06:37 2020
+ERROR: Default framebuffer is not complete, error 0x0
+
+Sat Feb 22 13:12:01 2020
+ERROR: Default framebuffer is not complete, error 0x0
+
+Sat Feb 22 13:12:21 2020
+ERROR: Default framebuffer is not complete, error 0x0
+
+Mon Feb 24 10:35:52 2020
+ERROR: Default framebuffer is not complete, error 0x0
+
